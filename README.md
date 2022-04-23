@@ -3,7 +3,7 @@ Hi 👋 My Name is Sagar Goswami
 
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
 
-* 🌍  I'm based in Hapur
+* 🌍  I'm based in Hapur, Uttar Pradesh, India
 * ✉️  You can contact me at [9837876110](mailto:9837876110)
 * ⚡  I'm a Student of BCA
 

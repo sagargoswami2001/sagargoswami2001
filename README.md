@@ -4,8 +4,11 @@ Hi 👋 My Name is Sagar Goswami
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
 
 * 🌍  I'm from Hapur
-* ✉️  You can contact me at [9837876110](mailto:9837876110)
+* ✉️  You can contact me at sagargoswami7417@gmail.com
 * ⚡  I'm a Student of BCA
+* 🧠  I'm learning Ethical hacking
+* 🌱  I'm interested in Blockchain, Linux distros
+* ✌🏻  I also enjoy troubleshooting, meddling and assembling computers
 
 ### Skills
 

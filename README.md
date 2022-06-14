@@ -18,14 +18,18 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Community" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
-<img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
-<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
-<img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Community" width="36px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
+<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="36px" src="https://www.svgrepo.com/show/343674/github.svg" />
+<img align="left" alt="Markdown" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" />
+<img align="left" alt="Linux" width="36px" src="https://www.svgrepo.com/show/184138/linux.svg" />
+<img align="left" alt="Manjaro" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
+<img align="left" alt="Ubuntu" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
+<img align="left" alt="Kali" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
+<img align="left" alt="Windows" width="36px" src="https://www.svgrepo.com/show/184142/windows.svg" />
+<img align="left" alt="Terminal" width="36px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
+<img align="left" alt="Android" width="36px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
 </p>
 
 

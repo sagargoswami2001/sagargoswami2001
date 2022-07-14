@@ -55,6 +55,6 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 <div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Python-Basic-Programs-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Python-Basic-Programs-1&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Simple-Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Simple-Blockchain&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Bitcoin-Mining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Bitcoin-Mining&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/ATM-Machine-in-C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=ATM-Machine-in-C&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>

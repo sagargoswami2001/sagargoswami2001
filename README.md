@@ -1,4 +1,4 @@
-Hi 👋 My Name is Sagar Goswami
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Sagar Goswami
 ==============================
 
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
@@ -10,7 +10,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 * 🌱  I'm interested in Blockchain, Linux distros
 * ✌🏻  I also enjoy troubleshooting, meddling and assembling computers
 
-### Languages And Tools:
+### Languages 🧑‍💻 and Tools ⚙️:
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
@@ -33,15 +33,15 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 </p>
 
 
-### Socials
+### Socials😌
 
 <p align="left"> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagar-goswami-1641b3212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-### Badges
+### Badges🚀
 
 
-<b>My GitHub Stats</b>
+<b>⚙️My GitHub Stats</b>
 
 <a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-stats.vercel.app/api?username=sagargoswami2001&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="sagargoswami2001's GitHub stats" /></a>
 
@@ -51,7 +51,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 <a href="https://github.com/sagargoswami2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargoswami2001&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>🧑‍💻Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Python-Basic-Programs-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Python-Basic-Programs-1&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Simple-Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Simple-Blockchain&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 

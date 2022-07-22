@@ -1,3 +1,5 @@
+![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
+
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Sagar Goswami
 ==============================
 
@@ -37,6 +39,9 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 <p align="left"> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagar-goswami-1641b3212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Articles 📝 Written By Me✍️
+- [How-to-Setup-Graphics.h-for-Visual-Studio-Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
+- [How-Does-Bitcoin-Mining-Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
 
 ### Badges🚀
 
@@ -58,3 +63,5 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Bitcoin-Mining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Bitcoin-Mining&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/ATM-Machine-in-C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=ATM-Machine-in-C&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 <p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>
+
+![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)

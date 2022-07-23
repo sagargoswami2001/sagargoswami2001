@@ -40,8 +40,8 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <p align="left"> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagar-goswami-1641b3212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Articles 📝 Written By Me✍️
-- [How-to-Setup-Graphics.h-for-Visual-Studio-Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
-- [How-Does-Bitcoin-Mining-Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
+- [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
+- [How Does Bitcoin Mining Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
 
 ### Badges🚀
 

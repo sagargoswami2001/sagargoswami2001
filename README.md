@@ -46,6 +46,15 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 - [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
 - [How Does Bitcoin Mining Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
 
+### My Projects 🙌
+- [ATM Machine in C](https://github.com/sagargoswami2001/ATM-Machine-in-C)
+- [Bitcoin Mining](https://github.com/sagargoswami2001/Bitcoin-Mining)
+- [Command Line Interface](https://github.com/sagargoswami2001/Command-Line-Interface)
+- [Notification Reminder](https://github.com/sagargoswami2001/Notification-Reminder)
+- [Rolling Dice](https://github.com/sagargoswami2001/Rolling-Dice)
+- [Simple Blockchain](https://github.com/sagargoswami2001/Simple-Blockchain)
+- [Snake Water Gun](https://github.com/sagargoswami2001/Snake-Water-Gun)
+
 ### Badges🚀
 
 <b>⚙️My GitHub Stats</b>

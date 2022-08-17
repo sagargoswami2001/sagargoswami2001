@@ -34,11 +34,13 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
 <img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
 <img align="left" alt="Kali" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
+<img align="left" alt="Garuda Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Garuda-blue-sgs.svg" />
 <img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 <img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
+<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
 <img align="left" alt="Markdown" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
 </br>
 </br>
@@ -78,7 +80,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 <p align="center"><img align="center" src="code.gif" alt="sagargoswami2001" /></p>
 <p align="center">
-  Bye!
+  Bye...👋🏻
 </p>
 
 <p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>

@@ -61,21 +61,29 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 ### Badges🚀
 
-<b>⚙️My GitHub Stats</b>
+<b>⚙️My GitHub Stats:</b>
 
+<p align="center"><img align="center"
 <a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-stats.vercel.app/api?username=sagargoswami2001&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="sagargoswami2001's GitHub stats" /></a>
+</p>
 
+<p align="center"><img align="center"
 <a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagargoswami2001&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
+<p align="center"><img align="center"
 <a href="http://www.github.com/sagargoswami2001"><img src="https://activity-graph.herokuapp.com/graph?username=sagargoswami2001&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
 
+<p align="center"><img align="center"
 <a href="https://github.com/sagargoswami2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargoswami2001&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 <b>🧑‍💻Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Python-Basic-Programs-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Python-Basic-Programs-1&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Simple-Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Simple-Blockchain&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/ATM-Machine-in-C" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=ATM-Machine-in-C&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Bitcoin-Mining" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Bitcoin-Mining&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Bitcoin-Mining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Bitcoin-Mining&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/ATM-Machine-in-C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=ATM-Machine-in-C&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Python-Basic-Programs-2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Python-Basic-Programs-2&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Simple-Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Simple-Blockchain&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
@@ -85,5 +93,10 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 </p>
 
 <p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>
+
+<p align="center"><img align="center"
+<a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sagargoswami2001?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+</p>
 
 ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)

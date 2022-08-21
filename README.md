@@ -54,6 +54,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 - [ATM Machine in C](https://github.com/sagargoswami2001/ATM-Machine-in-C)
 - [Bitcoin Mining](https://github.com/sagargoswami2001/Bitcoin-Mining)
 - [Command Line Interface](https://github.com/sagargoswami2001/Command-Line-Interface)
+- [Mouse Using Your Eyes](https://github.com/sagargoswami2001/Mouse-Using-Your-Eyes)
 - [Notification Reminder](https://github.com/sagargoswami2001/Notification-Reminder)
 - [Rolling Dice](https://github.com/sagargoswami2001/Rolling-Dice)
 - [Simple Blockchain](https://github.com/sagargoswami2001/Simple-Blockchain)

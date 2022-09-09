@@ -40,8 +40,9 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 <img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
-<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
 <img align="left" alt="Markdown" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
+<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
+<img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />
 </br>
 </br>
 </br>

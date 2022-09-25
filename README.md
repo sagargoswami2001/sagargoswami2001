@@ -27,7 +27,6 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
-<img align="left" alt="Java" width="30px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />

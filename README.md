@@ -113,11 +113,13 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 <p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>
 
+<!--
 <p align="center">
 <a href="https://github.com/sagargoswami2001/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sagargoswami2001&style=for-the-badge">
 </a>
 </p>
+-->
 
 <p align="center"><img align="center"
 <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img

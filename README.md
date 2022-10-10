@@ -9,12 +9,12 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
 
-* 🌍  I'm from Hapur
-* ✉️  You can contact me at sagargoswami7417@gmail.com
-* ⚡  I'm a Student of BCA
-* 🧠  I'm learning Ethical hacking
-* 🌱  I'm interested in Blockchain, Linux distros
-* ✌🏻  I also enjoy troubleshooting, meddling and assembling computers
+* 🌍 I'm From Hapur
+* ✉️ You Can Contact Me at sagargoswami7417@gmail.com
+* ⚡ I'm a Student of BCA
+* 🧠 I'm Learning Ethical Hacking
+* 🌱 I'm Interested in Blockchain, Linux Distros
+* ✌🏻 I Also Enjoy Troubleshooting, Meddling and Assembling Computers
 
 ### 🌐 Socials:
 

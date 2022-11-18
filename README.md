@@ -43,6 +43,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio Community" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="intellijIDEA" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
+<img align="left" alt="CodeBlocks" width="26px" src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/codeblocks-icon.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
 <img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
@@ -51,19 +52,25 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Parrot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 <img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 <img align="left" alt="Arch Linux" width="26px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
+<img align="left" alt="Endevour OS" width="30px" src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2019/08/endeavouros-logo.png?ssl=1" />
 <img align="left" alt="Linux Mint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
+<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
-<img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
-<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
-<img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />
+<img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
 </p>
+
 <br><hr>
 
-<p align="center">  
-<img align="center" alt="Markdown" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
+<p align="center">
+<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
+<img align="left" alt="Android" width="24px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
+<img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />
+<img align="left" alt="Markdown" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
 </p>
+
+<br>
 
 ### Articles 📝 Written By Me✍️
 - [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)

@@ -18,7 +18,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 
 ### 🌐 Socials:
 
-<p align="left"> <a href="https://www.codepen.io/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sagar_Goswami27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
 ### 💻 Tech Stack:
 
@@ -58,12 +58,12 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
-<img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
 </p>
 
 <br><hr>
 
 <p align="center">
+<img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
 <img align="left" alt="Android" width="24px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
 <img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />

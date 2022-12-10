@@ -100,7 +100,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 </p>
 
 <p align="center"><img align="center"
-<a href="http://www.github.com/sagargoswami2001"><img src="https://activity-graph.herokuapp.com/graph?username=sagargoswami2001&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sagargoswami2001&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Sagar's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 
 <p align="center"><img align="center"

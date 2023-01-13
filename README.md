@@ -52,7 +52,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Parrot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 <img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 <img align="left" alt="Arch Linux" width="26px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
-<img align="left" alt="Endevour OS" width="30px" src="https://i1.wp.com/itsfoss.com/wp-content/uploads/2019/08/endeavouros-logo.png?ssl=1" />
+<img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />
 <img align="left" alt="Linux Mint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />

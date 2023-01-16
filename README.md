@@ -55,8 +55,8 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />
 <img align="left" alt="Linux Mint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
+<img align="left" alt="Zorin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 </p>
 
@@ -65,9 +65,10 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <p align="center">
 <img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
-<img align="left" alt="Android" width="24px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
+<img align="left" alt="Android" width="22px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
 <img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />
-<img align="left" alt="Markdown" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
+<img align="left" alt="Markdown" width="30px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
+<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
 </p>
 
 <br>

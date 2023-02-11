@@ -16,11 +16,17 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 * 🌱 I'm Interested in Blockchain, Linux Distros
 * ✌🏻 I Also Enjoy Troubleshooting, Meddling and Assembling Computers
 
-### 🌐 Socials:
+<img src="Border-Separator.gif" width="100%"/>
+
+## 🌐 Socials:
 
 <p align="left"> <a href="https://www.codepen.io/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sagar_goswami.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sagar_Goswami27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
-### 💻 Tech Stack:
+<img src="Border-Separator.gif" width="100%"/>
+
+# 💻 Tech Stack:
+
+### 🧑‍💻 Languages:
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -37,16 +43,20 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
 
-### ⚙️ Linux Distros & Tools:
+### 💻 IDE & Editors:
 
 <p align="left">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Visual Studio Community" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
-<img align="left" alt="intellijIDEA" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
-<img align="left" alt="CodeBlocks" width="26px" src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/codeblocks-icon.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
-<img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,codepen,replit,vim" alt="skills logos" />
+</p>
+
+### ⚙️ Tools & Others:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,md,dotnet,jquery,linux,bash,powershell,sqlite,ps,figma,blender" alt="skills logos" />
+</p>
+
+### 🖥️ Linux Distros & Others:
+
+<p align="left">
 <img align="left" alt="Kali" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
 <img align="left" alt="Garuda Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Garuda-blue-sgs.svg" />
 <img align="left" alt="Parrot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
@@ -57,21 +67,13 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 <img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <img align="left" alt="Zorin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
-</p>
-
-<img src="Border-Separator.gif" width="100%"/>
-
-<p align="center">
 <img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
 <img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
 <img align="left" alt="Android" width="22px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
-<img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png" />
-<img align="left" alt="Markdown" width="30px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" />
-<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
 </p>
 
 <br>
+<img src="Border-Separator.gif" width="100%"/>
 
 ### Articles 📝 Written By Me✍️
 - [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
@@ -82,13 +84,18 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 - [Bitcoin Mining](https://github.com/sagargoswami2001/Bitcoin-Mining)
 - [CV Sample Using HTML And CSS](https://github.com/sagargoswami2001/CV-Sample-Using-HTML-And-CSS)
 - [Command Line Interface](https://github.com/sagargoswami2001/Command-Line-Interface)
+- [Dressingnity E-Commerce Website](https://github.com/sagargoswami2001/Dressingnity-Ecommerce-Website)
 - [Mouse Using Your Eyes](https://github.com/sagargoswami2001/Mouse-Using-Your-Eyes)
 - [Notification Reminder](https://github.com/sagargoswami2001/Notification-Reminder)
 - [Rolling Dice](https://github.com/sagargoswami2001/Rolling-Dice)
 - [Simple Blockchain](https://github.com/sagargoswami2001/Simple-Blockchain)
+- [School Management System Using Python](https://github.com/sagargoswami2001/School-Management-System-Using-Python)
+- [Simple Web Browser Using Python](https://github.com/sagargoswami2001/Simple-Web-Browser-Using-Python)
 - [Snake Water Gun](https://github.com/sagargoswami2001/Snake-Water-Gun)
 
-### Badges🚀
+<img src="Border-Separator.gif" width="100%"/>
+
+# Badges🚀
 
 <b>⚙️My GitHub Stats:</b>
 

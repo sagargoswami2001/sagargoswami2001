@@ -78,7 +78,7 @@ My Passion Lies in Solving Computer Problems With Tailored Data and Communicatin
 ### Articles 📝 Written By Me✍️
 - [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
 - [How Does Bitcoin Mining Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
-- [The Technology of Decentralized Finance (DeFi)](https://github.com/sagargoswami2001/The-Technology-of-Decentralized-Finance)
+- [The Technology of Decentralized Finance (DeFi)](https://github.com/sagargoswami2001/The-Technology-of-Decentralized-Finance/blob/main/README.md)
 
 ### My Projects 🙌
 - [ATM Machine in C](https://github.com/sagargoswami2001/ATM-Machine-in-C)

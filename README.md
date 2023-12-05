@@ -7,7 +7,7 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Sagar Goswami
 ==============================
 
-My Passion Lies in Solving Computer Problems With Tailored Data and Communicating Complex Ideas to My Peers. I Am Also Very Interested in Programming.
+An ambitious DevOps Engineer with experience in AWS, Docker, Jenkins, CI/CD, Ansible, Shell Script, Linux, and Git. adept at automating deployment processes, scaling applications and infrastructure, and ensuring high availability of applications. committed to continuously improving the efficiency and reliability of software delivery processes. Seeking a challenging role in a dynamic organization where I can leverage my technical skills and grow as a DevOps professional.
 
 * 🌍 I'm From Hapur
 * ✉️ You Can Contact Me at sagargoswami7417@gmail.com

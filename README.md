@@ -14,6 +14,7 @@ An ambitious DevOps Engineer with experience in AWS, Docker, Jenkins, CI/CD, Ans
 * 🧠 I'm Learning DevOps & Cloud
 * 🌱 I'm Interested in Linux, Cloud Computing, Networking
 * ✌🏻 I Also Enjoy Troubleshooting, Meddling and Assembling Computers
+* 👨‍💻 I Am Passionate About Devops, Automation & I Highly Enjoy Learning New Things.
 
 <img src="Border-Separator.gif" width="100%"/>
 

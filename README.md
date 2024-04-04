@@ -48,7 +48,7 @@ An ambitious DevOps Engineer with experience in AWS, Docker, Jenkins, CI/CD, Ans
 <p align="left">
 <img align="left" alt="Kali" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
 <img align="left" alt="Garuda Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Garuda-blue-sgs.svg" />
-<img align="left" alt="Parrot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
+<img align="left" alt="Fedora" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" />
 <img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 <img align="left" alt="Arch Linux" width="26px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
 <img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />

@@ -14,8 +14,8 @@ An ambitious DevOps Engineer with experience in AWS, Docker, Jenkins, CI/CD, Ans
 * 🧠 I'm Learning DevOps & Cloud
 * 🌱 I'm Interested in Linux, Cloud Computing, Networking
 * ✌🏻 I Also Enjoy Troubleshooting, Meddling and Assembling Computers
-* 👨‍💻 I Am Passionate About Devops, Automation & I Highly Enjoy Learning New Things.
-* 📄 You Can Download My Resume By Clicking This Button. [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+* 👨‍💻 I Am Passionate About Devops, Automation & I Highly Enjoy Learning New Things
+* 📄 You Can Download My Resume By Clicking This Button [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/14zK2QFWDEsXJbYV9BO4f36q8WuamvbO8/view?usp=drivesdk)
 
 <img src="Border-Separator.gif" width="100%"/>
 

@@ -1,133 +1,150 @@
-![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sagar%20Goswami&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Site%20Reliability%20Engineer&descAlignY=60&descAlign=50)
 
-<p align="center">
-  <img width="526px" height="" src="Sagar Japanese Name.png">
-</p>
+<div align="center">
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"> My Name is Sagar Goswami
-==============================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Automating+the+Future+with+DevOps;☁️+Cloud+%7C+Containers+%7C+CI%2FCD+%7C+IaC;🐧+Linux+Lover+%26+Open+Source+Advocate;⚙️+Building+Reliable+%26+Scalable+Systems;🔥+Site+Reliability+Engineer+%7C+SRE;🛡️+Ensuring+99.99%25+Uptime+%26+Resilience;🌐+Multi-Cloud+Architect+%7C+AWS+%7C+GCP+%7C+Azure;🔄+GitOps+%7C+ArgoCD+%7C+Flux+%7C+Helm;📊+Observability+%7C+Prometheus+%7C+Grafana;🐳+Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible)](https://git.io/typing-svg)
 
-An ambitious DevOps Engineer with experience in AWS, Docker, Jenkins, CI/CD, Ansible, Shell Script, Linux, and Git. adept at automating deployment processes, scaling applications and infrastructure, and ensuring high availability of applications. committed to continuously improving the efficiency and reliability of software delivery processes. Seeking a challenging role in a dynamic organization where I can leverage my technical skills and grow as a DevOps professional.
-
-* 🌍 I'm From Hapur
-* ✉️ You Can Contact Me at sagargoswami7417@gmail.com
-* 🧠 I'm Learning DevOps & Cloud
-* 🌱 I'm Interested in Linux, Cloud Computing, Networking
-* ✌🏻 I Also Enjoy Troubleshooting, Meddling and Assembling Computers
-* 👨‍💻 I Am Passionate About Devops, Automation & I Highly Enjoy Learning New Things
-* 📄 You Can Download My Resume By Clicking This Button [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/14zK2QFWDEsXJbYV9BO4f36q8WuamvbO8/view?usp=drivesdk)
+</div>
 
 <img src="Border-Separator.gif" width="100%"/>
 
-## 🌐 Socials:
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.codepen.io/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/its_ocean.2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagargoswami2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sagar_Goswami27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
+```yaml
+Name: Sagar Goswami
+Location: Hapur, Uttar Pradesh, India 🇮🇳
+Role: DevOps Engineer
+Focus: [Cloud Infrastructure, CI/CD, Automation, Containerization]
+Learning: [Kubernetes, Terraform, AWS Advanced Services]
+Interests: [Linux, Cloud Computing, Networking, Open Source]
+Hobbies: [Troubleshooting, Computer Assembly, Exploring New Tech]
+Contact: sagargoswami7417@gmail.com
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagargoswami2001)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sagargoswami2001)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Sagar_Goswami27)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/its_ocean.2001)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codepen.io/sagargoswami2001)
+
+</div>
 
 <img src="Border-Separator.gif" width="100%"/>
 
-# 💻 Tech Stack:
+### 🛠️ Skills & Tech Stack
 
-### 🧑‍💻 Languages:
+#### ⚙️ DevOps & Cloud — *Core Expertise*
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+> The foundation of everything I build — automating, scaling, and shipping with confidence.
 
-### 💻 IDE & Editors:
+| Category | Technologies |
+|----------|-------------|
+| **☁️ Cloud Platforms** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **🐳 Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **🔁 CI/CD Pipelines** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **📦 Config & IaC** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **📊 Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **🖥️ OS & Shell** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **🌐 Networking** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **🔧 Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,codepen,replit,vim" alt="skills logos" />
-</p>
+<details>
+<summary>🐧 <strong>Linux Distros I've Used</strong></summary>
+<br>
 
-### ⚙️ Tools & Others:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,md,dotnet,jquery,linux,bash,powershell,sqlite,ps,figma,blender" alt="skills logos" />
-</p>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Garuda](https://img.shields.io/badge/Garuda_Linux-DA6A24?style=for-the-badge&logo=garuda-linux&logoColor=white)
 
-### 🖥️ Linux Distros & Others:
+</details>
 
-<p align="left">
-<img align="left" alt="Kali" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
-<img align="left" alt="Garuda Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Garuda-blue-sgs.svg" />
-<img align="left" alt="Fedora" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" />
-<img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
-<img align="left" alt="Arch Linux" width="26px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
-<img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />
-<img align="left" alt="Linux Mint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
-<img align="left" alt="Zorin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" />
-<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-<img align="left" alt="Apache HTTP Server" width="26px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" />
-<img align="left" alt="Bitcoin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" />
-<img align="left" alt="Android" width="22px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
-</p>
+<img src="Border-Separator.gif" width="100%"/>
+
+#### 🔙 Backend Development
+
+> Server-side logic, APIs, databases — building what powers the frontend.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<img src="Border-Separator.gif" width="100%"/>
+
+#### 🎨 Frontend Development
+
+> Clean, responsive interfaces — because great software also needs to look great.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<img src="Border-Separator.gif" width="100%"/>
+
+#### 🧰 Tools & Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<img src="Border-Separator.gif" width="100%"/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagargoswami2001&show_icons=true&count_private=true&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&bg_color=0d1117&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargoswami2001&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargoswami2001&langs_count=10&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&bg_color=0d1117&hide_border=true&layout=compact&custom_title=Top%20Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sagargoswami2001&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<img src="Border-Separator.gif" width="100%"/>
+
+### 📝 Articles & Writings
+
+> Sharing knowledge with the community 💡
+
+- 📖 [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
+- 📖 [How Does Bitcoin Mining Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
+- 📖 [The Technology of Decentralized Finance (DeFi)](https://github.com/sagargoswami2001/The-Technology-of-Decentralized-Finance/blob/main/README.md)
+
+<img src="Border-Separator.gif" width="100%"/>
+
+<div align="center">
+
+#### 💬 Quote That Drives Me
+
+> *"Automate the boring stuff, so you can focus on the interesting stuff."*
 
 <br>
-<img src="Border-Separator.gif" width="100%"/>
 
-### Articles 📝 Written By Me✍️
-- [How to Setup Graphics.h for Visual Studio Code](https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code/blob/main/README.md)
-- [How Does Bitcoin Mining Work](https://github.com/sagargoswami2001/How-Does-Bitcoin-Mining-Work/blob/main/README.md)
-- [The Technology of Decentralized Finance (DeFi)](https://github.com/sagargoswami2001/The-Technology-of-Decentralized-Finance/blob/main/README.md)
+![Profile Views](https://komarev.com/ghpvc/?username=sagargoswami2001&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/sagargoswami2001?logo=github&style=for-the-badge&color=00D4FF&labelColor=0d1117)](https://www.github.com/sagargoswami2001)
 
-### My Projects 🙌
-- [ATM Machine in C](https://github.com/sagargoswami2001/ATM-Machine-in-C)
-- [Bitcoin Mining](https://github.com/sagargoswami2001/Bitcoin-Mining)
-- [CV Sample Using HTML And CSS](https://github.com/sagargoswami2001/CV-Sample-Using-HTML-And-CSS)
-- [Command Line Interface](https://github.com/sagargoswami2001/Command-Line-Interface)
-- [Dressingnity E-Commerce Website](https://github.com/sagargoswami2001/Dressingnity-Ecommerce-Website)
-- [Mouse Using Your Eyes](https://github.com/sagargoswami2001/Mouse-Using-Your-Eyes)
-- [Notification Reminder](https://github.com/sagargoswami2001/Notification-Reminder)
-- [Rolling Dice](https://github.com/sagargoswami2001/Rolling-Dice)
-- [Simple Blockchain](https://github.com/sagargoswami2001/Simple-Blockchain)
-- [School Management System Using Python](https://github.com/sagargoswami2001/School-Management-System-Using-Python)
-- [Simple Web Browser Using Python](https://github.com/sagargoswami2001/Simple-Web-Browser-Using-Python)
-- [Snake Water Gun](https://github.com/sagargoswami2001/Snake-Water-Gun)
+</div>
 
-<img src="Border-Separator.gif" width="100%"/>
-
-# Badges🚀
-
-<b>⚙️My GitHub Stats:</b>
-
-<p align="center"><img align="center"
-<a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-stats.vercel.app/api?username=sagargoswami2001&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&show_icons=true" alt="sagargoswami2001's GitHub stats" /></a>
-</p>
-
-<p align="center"><img align="center"
-<a href="http://www.github.com/sagargoswami2001"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sagargoswami2001&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Sagar's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
-
-<p align="center"><img align="center"
-<a href="https://github.com/sagargoswami2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagargoswami2001&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-<b>🧑‍💻Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/ATM-Machine-in-C" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=ATM-Machine-in-C&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Bitcoin-Mining" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Bitcoin-Mining&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sagargoswami2001/Python-Basic-Programs-2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Python-Basic-Programs-2&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/sagargoswami2001/Simple-Blockchain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sagargoswami2001&repo=Simple-Blockchain&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
-<p align="center"><img align="center" src="code.gif" alt="sagargoswami2001" /></p>
-<p align="center">
-  Bye...👋🏻
-</p>
-
-<!--
-<p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=sagargoswami2001.sagargoswami2001" /></p>
--->
-
-<p align="center">
-<a href="https://github.com/sagargoswami2001/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sagargoswami2001&style=for-the-badge">
-</a>
-</p>
-
-<p align="center"><img align="center"
-<a href="https://www.github.com/sagargoswami2001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sagargoswami2001?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
-</p>
-
-![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
